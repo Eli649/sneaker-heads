@@ -25,3 +25,70 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+
+body {
+    background-image: url("https://wallpaperaccess.com/full/3127598.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    border: transparent 2px; 
+    border-radius: .5em;
+    width: 30%;
+    margin-left: 700px;
+    background-image: linear-gradient(#7fbee3 , #ed4748);
+    text-align: center;
+    text-decoration: underline;
+    color: #724ffb;
+    text-shadow: 4px 2px #ccc164;
+    padding: 10px;
+}
+
+#row1{
+    margin-left:700px;
+}
+
+#row1-section2{
+    border: solid 2px #f07630;
+    background-color:#74c9f1;
+    padding: 5px;
+    margin-right: 780px;
+    border-radius:.5em;
+}
+
+#jordans-1{
+    box-shadow: 3px 0px 0px #1938c5;
+}
+
+#jordans-1-desc{
+    color:#ffffff;
+}
+
+#row2{
+    margin-left:880px;
+}
+
+#row2-section2{
+    border: solid 2px #336f04;
+    background-color:#ed473e;
+    padding: 5px;
+    margin-right: 600px;
+    border-radius:.5em;
+}
+
+#jordans-2{
+    box-shadow: 0px 0px 3px #d03c28;
+}
+
+#jordans-2-desc{
+    color:#ffffff;
+}
+
+img{
+    margin-top:20px;
+    margin-bottom:5px;
+    border-radius: 8px;
+    height: 250px;
+    width: 420px;
+}
